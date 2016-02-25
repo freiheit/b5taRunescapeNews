@@ -1,0 +1,16 @@
+{
+  "name": "b5taRunescapeNews",
+  "description": "Used for Heroku",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python"
+    }
+  ]
+}
